@@ -1,0 +1,40 @@
+html{
+    background: #D97EC0;
+    color:#222559;
+    font-size: 21px;
+    font-family: sans-serif;
+}
+#albums{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#album1{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album2{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album3{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album4{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album5{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album6{
+    flex-basis: 200px;
+    align-self: center;
+}
+#album7{
+    flex-basis: 200px;
+    align-self: center;
+}
